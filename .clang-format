@@ -1,0 +1,5 @@
+BasedOnStyle: Microsoft
+PointerAlignment: Left
+IncludeBlocks: Regroup
+IndentCaseLabels: true
+
